@@ -4,7 +4,7 @@
 namespace App\Marketplace\Utility;
 
 
-class MoneroConvert
+class CardanoConvert
 {
     const API_URL = "https://min-api.cryptocompare.com/data/price?fsym=ADA&tsyms=EUR";
     const API_URL_USD = "https://min-api.cryptocompare.com/data/price?fsym=ADA&tsyms=USD";
